@@ -1,2 +1,2 @@
 # Topic-11
-MQTT - Part 2
+MQTT - Informatie voor WS2

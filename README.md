@@ -1,2 +1,1 @@
-# topic 8
-MQTT - Informatie voor WS2
+# topic 8 WS 2
